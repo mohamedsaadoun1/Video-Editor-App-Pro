@@ -1,0 +1,22 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MenuBar.qml</file>
+        <file>ProjectBin.qml</file>
+        <file>PreviewArea.qml</file>
+        <file>Timeline.qml</file>
+        <file>TextToolOptions.qml</file>
+        <file>TransitionToolOptions.qml</file>
+        <file>EffectToolOptions.qml</file>
+        <file>ExportDialog.qml</file>
+        <file>ThemeManager.qml</file>
+        <file>MediaBrowser.qml</file>
+        <file>AIToolsPanel.qml</file>
+        <file>BeatDetectionPanel.qml</file>
+        <file>BackgroundRemovalPanel.qml</file>
+        <file>ObjectTrackingPanel.qml</file>
+        <file>themes/dark_theme.qml</file>
+        <file>themes/light_theme.qml</file>
+    </qresource>
+</RCC>
